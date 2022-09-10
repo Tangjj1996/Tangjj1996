@@ -5,7 +5,7 @@
 #### Introduction
 
 - 🌱 I’m currently learning `Rust` & `Full Stack`
-- 🤔 I’m going to build own `front-end cli`
+- 🤔 I’m going to build mine own `front-end cli`
 
 #### Language
 
